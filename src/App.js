@@ -1,17 +1,25 @@
-import "./App.css";
-import EffectTutorial from "./UseEffect/EffectTutorial";
-import ReducerTutorial from "./UseReducer/ReducerTutorial";
-import StateTutorial from "./UseState/StateTutorial";
-import ContextTutorial from "./UseContext/ContextTutorial";
-import ImperativeHandle from "./UseImperativeHandle/ImperativeHandle";
-import RefTutorial from "./UseRef/RefTutorial";
-import MemoTutorial from "./UseMemo/MemoTutorial";
-import CallBackTutorial from "./UseCallback/CallbackTutorial";
+// import StateTutorial from "./1_UseState/StateTutorial";
+// import ReducerTutorial from "./2_UseReducer/ReducerTutorial";
+// import EffectTutorial from "./3_UseEffect/EffectTutorial";
+// import RefTutorial from "./4_UseRef/RefTutorial";
+// import UseLayoutEffect from "./5_UseLayoutEffect"
+// import ImperativeHandle from "./6_UseImperativeHandle/ImperativeHandle";
+// import ContextTutorial from "./7_UseContext/ContextTutorial";
+// import MemoTutorial from "./8_UseMemo/MemoTutorial";
+// import CallBackTutorial from "./9_UseCallback/CallbackTutorial";
 
 function App() {
   return (
     <div className="App">
-      <StateTutorial />
+      {/* <StateTutorial /> */}
+      {/* <ReducerTutorial/> */}
+      {/* <EffectTutorial /> */}
+      {/* <RefTutorial/> */}
+      {/* <UseLayoutEffect /> */}
+      {/* <ImperativeHandle /> */}
+      {/* <ContextTutorial /> */}
+      {/* <MemoTutorial /> */}
+      {/* <CallBackTutorial /> */}
     </div>
   );
 }
